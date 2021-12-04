@@ -34,5 +34,6 @@
 
 [twitter]: https://twitter.com/colormarked_
 [leetcode]: https://leetcode.com/markerxz/
-[linkedin]: https://www.linkedin.com/in/jatupongmark/
+[linkedink]: https://www.linkedin.com/in/jatupongmark/
+[linkedin]: #
 [instagram]: https://www.instagram.com/colormarked_/
