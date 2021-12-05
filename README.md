@@ -16,7 +16,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][blank]
 [<img align="left" alt="Colab" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOUCw6EGyF9_vJg-hOx6_mxB0f2W3yw60_pG_hMF9zvlUrtv4-Vy9ehi3ftuOcG444j0s&usqp=CAU" />][blank]
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />][blank]
-[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />][blank]
+[<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />][blank]
 [<img align="left" alt="matplotlib" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" />][blank]
 [<img align="left" alt="numpy" width="26px" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" />][blank]
 [<img align="left" alt="pandas" width="26px" src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" />][blank]
