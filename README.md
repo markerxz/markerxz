@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:e78ddc,50:73c9ff,100:cbf6ff&height=300&section=header&text=WELCOME%20TO%20MY%20GITHUB%20👋&animation=fadeIn&fontAlignY=30&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:e78ddc,50:73c9ff,100:cbf6ff&height=300&section=header&text=WELCOME%20TO%20MY%20GITHUB%20👋&animation=fadeIn&fontAlignY=30&fontSize=40&fontColor=ffffff)
 
 ## Tech Geek - Programmer - Developer
 - 🧮 Focusing in Data Science, Machine Learning. 
