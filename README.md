@@ -7,7 +7,9 @@
 - 🎮 Fun fact: I love playing video games and watching esports a lot !!
 
 ![markerxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=markerxz&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markerxz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markkerxz&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Languages and Tools:
 
