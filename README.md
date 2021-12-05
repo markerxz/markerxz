@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0,e78ddc,73c9ff,cbf6ff&height=300&section=header&text=WELCOME%20TO%20MY%20GITHUB%20👋&animation=fadeIn&fontAlignY=30&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:e78ddc,50:73c9ff,100:cbf6ff&height=300&section=header&text=WELCOME%20TO%20MY%20GITHUB%20👋&animation=fadeIn&fontAlignY=30&fontSize=40)
 
 ## Tech Geek - Programmer - Developer
 - 🧮 Focusing in Data Science, Machine Learning. 
@@ -6,7 +6,7 @@
 - 👯 Currently looking for internship opportunities in 2022.
 - 🎮 Fun fact: I love playing video games and watching esports a lot !!
 
-![markerxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=markerxz&bg_color=0:E78DDC,100:73C9FF&title_color=fff&text_color=fff)
+![markerxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=markerxz&bg_color=0,e78ddc,73c9ff,cbf6ff&title_color=fff&text_color=fff)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markerxz)](https://github.com/anuraghazra/github-readme-stats)
 
