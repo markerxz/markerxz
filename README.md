@@ -6,7 +6,7 @@
 - 👯 Currently looking for internship opportunities in 2022.
 - 🎮 Fun fact: I love playing video games and watching esports a lot !!
 
-![markerxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=markerxz&show_icons=true&bg_color=45,#66005a,#0044c1,#00d4ff)
+![markerxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=markerxz&show_icons=true&bg_color=45,#66005a,#0044c1,#00d4ff&title_color=fff&text_color=fff)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markerxz)](https://github.com/anuraghazra/github-readme-stats)
 
