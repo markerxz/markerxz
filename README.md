@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&height=300&section=header&text=WELCOME%20TO%20MY%20GITHUB%20👋&animation=fadeIn&fontAlignY=30&fontSize=40)
 
 ## Tech Geek - Programmer - Developer
-
+- 🧮 Focusing in Data Science, Machine Learning. 
 - 🌱 I love learning everything especially technologies.
 - 👯 Currently looking for internship opportunities in 2022.
 - 🎮 Fun fact: I love playing video games and watching esports a lot !!
