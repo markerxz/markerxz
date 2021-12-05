@@ -8,7 +8,7 @@
 
 ![markerxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=markerxz&show_icons=true&theme=radical)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markerxz&langs_count=2)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markerxz)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Languages and Tools:
@@ -22,7 +22,7 @@
 [<img align="left" alt="pandas" width="26px" src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" />][blank]
 [<img align="left" alt="plotly" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly_logo_for_digital_final_%286%29.png/1024px-Plotly_logo_for_digital_final_%286%29.png" />][blank]
 [<img align="left" alt="MATLAB" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" />][blank]
-[<img align="left" alt="Arduino" width="26px" src="https://image.makewebeasy.net/makeweb/0/Yrhd97Z9N/DATA/Arduino_logo1.png" />][blank]
+[<img align="left" alt="Arduino" width="26px" src="https://blog.thaieasyelec.com/wp-content/uploads/2020/08/156_09_arduino_platform.jpg" />][blank]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][blank]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][blank]
 
