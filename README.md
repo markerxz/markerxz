@@ -36,6 +36,7 @@
 [<img align="left" alt="markerxz | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" />][leetcode]
 [<img align="left" alt="colormarked_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="colormarked_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="@jatupong.mark | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 <br />
 
 [mail]: mailto:jatupong.mark@gmail.com?subject=HELLO%20THERE
@@ -44,3 +45,4 @@
 [linkedin]: https://www.linkedin.com/in/jatupongmark/
 [blank]: javascript:;
 [instagram]: https://www.instagram.com/colormarked_/
+[medium]: https://medium.com/@jatupong.mark
