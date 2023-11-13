@@ -3,8 +3,7 @@
 ## Tech Geek - Programmer - Developer
 - 🧮 Focusing in Data Science, Machine Learning. 
 - 🌱 I love learning everything especially technologies.
-- 👯 Recieved internship offer from Garene Thailand, Market Research position.
-- 🎮 Fun fact: I love playing video games and watching esports a lot !!
+- 🎮 I love playing video games and watching esports a lot !!
 
 ![markerxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=markerxz&bg_color=0,e78ddc,73c9ff,cbf6ff&title_color=fff&text_color=fff)
 <br/>
